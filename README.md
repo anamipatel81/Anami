@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anamipatel81&label=Profile%20views&color=0e75b6&style=flat" alt="anamipatel81" /> </p>
 
-- 🔭 I’m currently working on **Stock market prediction project**
+- 🔭 I’m currently working on **Banglore house price model**
 
 - 🌱 I’m currently learning **Web development, Data Science and Machine learning**
 
